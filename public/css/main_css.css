@@ -83,7 +83,7 @@ body {
     will-change: transform;
     text-transform: uppercase;
     color: #f5f5e7;
-    text-shadow: 0 0 18px #f12f12c8;
+    text-shadow: 0 0 18px #f3df6fc8;
     transition: var(--transition);
 }
 
@@ -104,6 +104,7 @@ body {
     background-size: cover;
     background-position: center;
     color: #f5f5e7;
+    text-shadow: 0 0 18px #f3df6fc8;
     display: flex;
     justify-content: center;
     align-items: center;
